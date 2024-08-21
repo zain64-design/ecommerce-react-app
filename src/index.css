@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Matemasie&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: 'IntegralCF';
+    src: url(assets/fonts/Integral-CF.ttf) format('truetype');
+}
+@font-face {
+    font-family: 'Satoshi-Reg';
+    src: url(assets/fonts/Satoshi-Regular.ttf) format('truetype');
+}
+@font-face {
+    font-family: 'Satoshi-Med';
+    src: url(assets/fonts/Satoshi-Medium.ttf) format('truetype');
+}
+@font-face {
+    font-family: 'Satoshi-Bold';
+    src: url(assets/fonts/Satoshi-Bold.ttf) format('truetype');
+}
